@@ -20,8 +20,8 @@ To get a local copy up and running follow these simple example steps.
 ## Usage
 To evaluate the model performance on a new dataset, use the following command line: 
    ```sh
-    python infence.py --root_dir ./path/to/your/dataset
+    python inference.py --root_dir ./path/to/your/dataset
    ```
-*remark: the dataset should contain 2 folders named 'fiels' and 'roads'
+*remark: the dataset should contain 2 folders named 'fields' and 'roads'
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
